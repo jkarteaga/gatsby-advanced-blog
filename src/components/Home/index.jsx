@@ -32,7 +32,7 @@ const Home = ({ portfolios }) => (
   <Fragment>
     <Wrapper isHome>
       <Title>
-        Hello, Blog!
+        Ongi etorri!
       </Title>
       <Helmet>
         <title>
