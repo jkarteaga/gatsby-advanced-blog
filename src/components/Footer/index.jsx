@@ -16,7 +16,7 @@ const FooterWrapper = styled.section`
 `;
 
 const Footer = () => (
-  <FooterWrapper>
+  <FooterWrapper> Cretive Commons
     Theme by @
     <a
       href="https://github.com/wonism/gatsby-advanced-blog"
